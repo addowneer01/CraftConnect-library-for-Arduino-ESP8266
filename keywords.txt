@@ -1,0 +1,17 @@
+app KEYWORD1
+scene KEYWORD1
+init KEYWORD2
+getStringView KEYWORD2
+run KEYWORD2
+getStringWrite KEYWORD2
+isUpdated KEYWORD2
+getValue KEYWORD2
+addStringView KEYWORD2
+addStringWrite KEYWORD2
+setHead KEYWORD2
+setHeadColor KEYWORD2
+setHaedBackgroundColor KEYWORD2
+setText KEYWORD2
+setTextColor KEYWORD2
+setBackgroundColor KEYWORD2
+setHint KEYWORD2
